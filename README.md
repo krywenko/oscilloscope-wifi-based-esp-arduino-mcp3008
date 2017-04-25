@@ -6,4 +6,5 @@ it is reasonably accurate  and supports  upto  8 probes
  socat -u udp-recv:1234 PTY,link=/dev/ttyS18,group=tty,mode=770  
  
  then simply connect lxardoscope to those virtual ports  to view the realtime osciliscope info from a remote device
- 
+ lxardoscope can be found here 
+ https://sourceforge.net/projects/lxardoscope/
